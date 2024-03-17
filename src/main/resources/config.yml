@@ -1,0 +1,39 @@
+#╔═══════════════════════════════════════╗
+#║         General Configuration         ║
+#╚═══════════════════════════════════════╝
+LOOT_BOX:
+  VIEW:
+    ENABLE: TRUE
+    CLICK: LEFT # LEFT / RIGHT
+  USE:
+    ENABLE: TRUE
+    CLICK: RIGHT
+#╔═══════════════════════════════════════╗
+#║              Mystery Box              ║
+#╚═══════════════════════════════════════╝
+MYSTERY_BOX:
+  ITEMS:
+    FILL:
+      DATA: 0
+      MATERIAL: BLACK_STAINED_GLASS_PANE
+      DISPLAY_NAME: "&0 "
+      LORE:
+        - ""
+    USE:
+      DATA: 0
+      MATERIAL: ENDER_CHEST
+      DISPLAY_NAME: "&3Click Me"
+      LORE:
+        - ""
+    CANCEL:
+      DATA: 0
+      MATERIAL: REDSTONE_BLOCK
+      DISPLAY_NAME: "&cCancel"
+      LORE:
+        - ""
+    FINISH:
+      DATA: 0
+      MATERIAL: END_PORTAL_FRAME
+      DISPLAY_NAME: "&aGet Loot"
+      LORE:
+        - ""

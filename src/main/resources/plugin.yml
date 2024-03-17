@@ -1,0 +1,6 @@
+name: Orion
+main: com.github.cawtoz.orion.Orion
+version: ${project.version}
+api-version: 1.13
+authors:
+  - cawtoz

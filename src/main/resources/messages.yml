@@ -1,0 +1,10 @@
+RELOAD: "&8[&5&lOrion&8] &aThe configuration has been reloaded successfully"
+USE_NO_LOOT: "&8[&5&lOrion&8] &dThe &f%TYPE%Box &ddoes not contain items."
+
+CREATION:
+  EXIST: "&8[&5&lOrion&8] &dThe %TYPE%Box &f%NAME% &dalready exists"
+  ACCEPT: "&8[&5&lOrion&8] &dThe %TYPE%Box &fcreation &dwas successfully saved."
+  CANCEL: "&8[&5&lOrion&8] &dSuccessfully &fcanceled &d%TYPE%Box creation."
+  RETURN: "&8[&5&lOrion&8] &dUse &f/orion create &dto return."
+  EDITING_NAME: "&8[&5&lOrion&8] &dEnter the &fname &dof the %TYPE%Box."
+  EDITING_DISPLAY_NAME: "&8[&5&lOrion&8] &dEnter the &fdisplay-name &dof the %TYPE%Box."
